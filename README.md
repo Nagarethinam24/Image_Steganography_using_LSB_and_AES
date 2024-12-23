@@ -13,6 +13,8 @@ Based on our implementation of this algorithm
 using Python in Visual Studio Code
 environment the secret data embedded in an
 cover image is successfully retrieved using an
-aes encryption key and the RGB pixel value of
+aes encryption key which can be shared with the 
+receiver using Diffie-Hellman Key Exchange 
+Technique and the RGB pixel value of
 the cover image and the secret image is
 successfully extracted and saved.
